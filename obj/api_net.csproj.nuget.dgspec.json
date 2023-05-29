@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj": {}
+    "c:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj": {
+    "c:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj",
+        "projectUniqueName": "c:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj",
         "projectName": "api_net",
-        "projectPath": "C:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj",
+        "projectPath": "c:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj",
         "packagesPath": "C:\\Users\\gcori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\obj\\",
+        "outputPath": "c:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gcori\\AppData\\Roaming\\NuGet\\NuGet.Config",
