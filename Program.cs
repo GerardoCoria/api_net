@@ -1,3 +1,5 @@
+using api_net.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,6 +11,8 @@ builder.Services.AddSwaggerGen();
 
 //builder.Services.AddScoped<IHelloWorldService,  HelloWorldService>();
 builder.Services.AddScoped<IHelloWorldService>(p=> new HelloWorldService());
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped< TareasService, TareasService>();
 
 var app = builder.Build();
 
