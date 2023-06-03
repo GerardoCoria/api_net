@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amAucwDdBHDUW5nE5qh8zkul1NFBPd2Bud8aV6E+38LktUEH0v6amwZ8QNxMJ2B+S3aieNIHC9jGHzxGyjdhiw==",
+  "dgSpecHash": "/MZMqY0SIpxnrQgwiAjX7/hMQgqj+F7Mm6CSBneQkJAK2EX95OsqvhU68DuUMUnLd/IWIVVWOCgNm6hWXnlzOw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj",
+  "projectFilePath": "C:\\Users\\gcori\\OneDrive\\Documentos\\Proyectos\\api_net\\api_net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gcori\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\gcori\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
